@@ -6,7 +6,7 @@ align="center">Check modification realm models over different commit</p>
 
 ## Introduction
 Cheking modification over Realm Object
-![Alt Text](screenShot.gif)
+![Alt Text](screenshot.gif)
 
 ## Installation
 ```
